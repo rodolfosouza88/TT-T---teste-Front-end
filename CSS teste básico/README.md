@@ -1,12 +1,12 @@
-🎨 Parte 2 – CSS 🎭
-Responda às questões abaixo sobre CSS.
+# 🎨 Parte 2 – CSS 🎭
+## Responda às questões abaixo sobre CSS.
 
-1️⃣ Como funciona o box model no CSS? Descreva cada parte dele.
+### 1️⃣ Como funciona o box model no CSS? Descreva cada parte dele.
 ✍️ Resposta:
 /* Escreva seu código aqui */
 
 
-2️⃣ Qual será a altura final da <div> abaixo? Justifique.
+### 2️⃣ Qual será a altura final da <div> abaixo? Justifique.
 css
 Copiar
 Editar
@@ -19,7 +19,7 @@ div {
 
 ✍️ Resposta:
 
-3️⃣ Crie um código CSS que atenda aos seguintes requisitos:
+### 3️⃣ Crie um código CSS que atenda aos seguintes requisitos:
 ✔️ Deixe o fundo preto
 ✔️ O texto dentro dos <h1> deve ser branco
 ✔️ Quando o mouse passar por cima do <h1>, a cor deve mudar para azul

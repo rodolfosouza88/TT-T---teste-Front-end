@@ -1,7 +1,7 @@
-🚀 Parte 3 – JavaScript 📜
+# 🚀 Parte 3 – JavaScript 📜
 Responda às questões abaixo sobre JavaScript.
 
-1️⃣ Qual será a saída do código abaixo? Explique o motivo.
+### 1️⃣ Qual será a saída do código abaixo? Explique o motivo.
 js
 Copiar
 Editar
@@ -14,7 +14,7 @@ console.log("10" / "2");
 
 
 
-2️⃣ Escreva uma função JavaScript que receba um número e retorne "par" se for par, ou "ímpar" se for ímpar.
+### 2️⃣ Escreva uma função JavaScript que receba um número e retorne "par" se for par, ou "ímpar" se for ímpar.
 ✍️ Resposta (código JavaScript abaixo):
 
 js
@@ -24,7 +24,7 @@ Editar
 
 
 
-3️⃣ Dado o seguinte array:
+### 3️⃣ Dado o seguinte array:
 js
 Copiar
 Editar
