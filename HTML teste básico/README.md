@@ -1,36 +1,41 @@
-# teste-front-end-TT-T
-Teste básico para novos ingressantes no setor de Front-End da TT&amp;T.
-## 📝 Teste de Conhecimentos Básicos – Front-End (HTML, CSS e JavaScript)
+# teste-front-end-TT-T  
+Teste básico para novos ingressantes no setor de Front-End da TT&T.  
+
+## 📝 Teste de Conhecimentos Básicos – HTML e CSS  
 
 ## Bem-vindo(a)! 🚀  
-Este teste serve para avaliar seus conhecimentos básicos sobre **HTML, CSS e JavaScript**, mas com um toque de desafio.  
+Este teste tem como objetivo avaliar seus conhecimentos básicos em **HTML e CSS** por meio da construção de uma página simples.  
 
 ## 📌 **Instruções:**  
-- Leia atentamente cada questão antes de responder.  
-- Edite este arquivo Markdown e escreva suas respostas abaixo de cada questão.  
-- Para as questões de código, escreva a solução dentro das caixas de código ` ``` ` .  
-- Envie seu arquivo preenchido para análise.  
+- Leia atentamente cada etapa antes de iniciar.  
+- Você deve criar um arquivo **index.html** e um arquivo **styles.css** para estilização.  
+- Após finalizar, envie os arquivos ou um link com a sua solução.  
 
 Boa sorte! 🍀  
 
 ---
 
-### 📌 **Parte 1 – HTML** 🏗️  
-Responda às questões abaixo sobre **HTML**.  
+## 📌 **Desafio – Construção de Página HTML e CSS**  
 
-### 1️⃣ Explique a diferença entre `em`, `strong` e `span`. Em quais situações você usaria cada um?  
+### 🔹 **Objetivo:**  
+Crie uma página HTML estruturada e estilizada com CSS, seguindo os requisitos abaixo.  
 
-✍️ **Resposta:**  
+### 🔹 **Requisitos da Página:**  
+1️⃣ **Estrutura HTML:**  
+✔️ Utilize as tags semânticas do HTML5.  
+✔️ A página deve conter um **cabeçalho** (`<header>`) com um título principal.  
+✔️ Um **menu de navegação** (`<nav>`) com três links fictícios.  
+✔️ Uma **seção principal** (`<section>`) contendo um título secundário e um parágrafo de apresentação.  
+✔️ Um **rodapé** (`<footer>`) com um texto de copyright.  
 
-### 2️⃣ Construa um formulário HTML contendo:  
-✔️ Um campo de **nome** obrigatório  
-✔️ Um campo de **e-mail** obrigatório e validado  
-✔️ Um **select** com 3 opções  
-✔️ Um botão de envio  
+2️⃣ **Estilização com CSS:**  
+✔️ Utilize um arquivo **styles.css** separado.  
+✔️ O fundo da página deve ter uma cor suave.  
+✔️ O texto do cabeçalho deve estar centralizado e em negrito.  
+✔️ O menu de navegação deve ter um efeito de hover (passar o mouse e mudar a cor).  
+✔️ O rodapé deve ter um espaçamento interno e um fundo diferente do restante da página.  
 
-✍️ **Resposta (código HTML abaixo):**  
-```html
-<!-- Escreva seu código aqui -->
+### 📌 **Entrega:**  
+Após finalizar, compacte os arquivos em um `.zip` ou envie um link para repositório no GitHub contendo os arquivos **index.html** e **styles.css**.  
 
-### 3️⃣  Qual será o resultado visual do seguinte código HTML? Justifique sua resposta.
-<h1>Olá <span style="color: red;">mundo</span>!</h1>
+🚀 **Mãos à obra e boa sorte!**  
